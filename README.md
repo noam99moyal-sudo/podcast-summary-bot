@@ -2,20 +2,24 @@
 
 A [Grok Bot](https://x.ai) template that turns a podcast or interview into five reusable insights, plus short notes you can actually use.
 
-It is built for business and psychology shows. You send a YouTube, X, or Spotify link. You get the argument, the claims that change what you do, and the best example from the episode. You do not get a recap of who said what in what order.
+You send a YouTube, X, or Spotify link. You get the argument, the claims that change what you do, and the best example from the episode.
 
-## Add it in Grok Bot (this is how people install it)
+## How to install
+
+To add this as a Grok Bot, open the public template and import it:
 
 **[Add Podcast Summary Bot](https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA)**
 
-That public template is the installable copy. Cloning this GitHub repo does not add the bot to Grok Bot. Use this repo to read the skill, fork it, or reuse the format in your own assistant.
+That is the install. The bot lives as a Grok Bot template, not as a GitHub app.
+
+This repository is the source: you can read the skill, fork it, or copy the format into another assistant. Cloning or downloading the repo does not add the bot to Grok Bot.
 
 Template page: https://x.ai/bot/CsyAhw5YQaVLeMSnMYwgA
 
 ## What you get from an episode
 
 1. **Header** — show, episode title, host/guest, date, runtime, original link.
-2. **TLDR** — exactly five bullets. Each one is a standalone insight: a model, a rule, a mechanism, a number, or a decision test. Ranked by how much it would change what a general business/psychology reader does, not by speaking order.
+2. **TLDR** — exactly five bullets. Each one is a standalone insight: a model, a rule, a mechanism, a number, or a decision test. Ranked by how much it would change what a reader does, not by speaking order. Business and psychology are two example fields, not a limit on which shows it covers.
 3. **Deeper notes** — one block per insight: restatement, why it holds, the strongest concrete example from the episode, and when it would fail.
 4. **Worth quoting** — only if a line *is* the insight. At most one or two. Skipped if nothing is sharp.
 

@@ -1,0 +1,8 @@
+{
+  "name": "podcast-summary",
+  "description": "Turn a podcast or interview transcript into five reusable insights, plus short notes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Noam"
+  }
+}

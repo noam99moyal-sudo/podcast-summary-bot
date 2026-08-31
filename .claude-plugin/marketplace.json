@@ -1,0 +1,15 @@
+{
+  "name": "podcast-summary-bot",
+  "owner": {
+    "name": "noam99moyal-sudo"
+  },
+  "description": "Marketplace hosting the podcast-summary plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "podcast-summary",
+      "source": "./plugins/podcast-summary",
+      "description": "Turn a podcast or interview transcript into five reusable insights, plus short notes",
+      "version": "1.0.0"
+    }
+  ]
+}

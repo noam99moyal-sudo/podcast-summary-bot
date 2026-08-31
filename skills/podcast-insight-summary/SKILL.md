@@ -7,7 +7,7 @@ description: >-
 ---
 # Podcast insight summary
 
-Write insight-first, not a conversation recap. Audience: a general business and psychology reader.
+Write insight-first, not a conversation recap. Rank for a general reader. Business and psychology are example fields, not a limit on which shows to cover.
 
 ## Sources
 YouTube, X, or Spotify. Fetch the full episode (transcript/captions). Do not invent quotes, names, numbers, or examples.
